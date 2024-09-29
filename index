@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<!-- saved from url=(0027)http://123.60.156.201:6002/ -->
+<html lang="zh-CN" version="4"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>隐私政策 - MeMo备忘录</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #ccecff;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, p {
+            color: #333;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            margin-left: 20px;
+            color: #555;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>隐私政策</h1>
+
+        <p><strong>一、引言</strong></p>
+        <p>欢迎使用MeMo备忘录（以下简称“本应用”）。本隐私政策旨在帮助您了解我们如何收集、使用、保护和处理您的个人信息。</p>
+
+        <p><strong>二、开发者信息</strong></p>
+        <p>本应用由陈昊天开发，作为开发者，我们承诺严格遵守相关法律法规，保护您的个人信息。</p>
+
+        <p><strong>三、信息收集</strong></p>
+        <p>为了提供更好的服务，我们可能会收集和处理以下信息：</p>
+        <ul>
+            <li>图片数据：用于向备忘录中添加图片。</li>
+            <li>声音数据：用于向备忘录中添加语音或录音。</li>
+            <li>文件数据：用于向备忘录中添加文档或其他文件。</li>
+        </ul>
+
+        <p><strong>四、信息使用</strong></p>
+        <p>我们将收集到的信息用于以下目的：</p>
+        <ul>
+            <li>为您提供图片、语音、文件添加功能，提升备忘录的使用体验。</li>
+            <li>处理和回应您的请求与反馈。</li>
+            <li>改进我们的应用功能，优化用户体验。</li>
+        </ul>
+
+        <p><strong>五、信息共享</strong></p>
+        <p>我们不会向第三方出售、交易或转让您的个人信息。以下情况除外：</p>
+        <ul>
+            <li>在获得您的明确同意后。</li>
+            <li>根据法律法规或政府要求。</li>
+            <li>为保护我们的合法权益。</li>
+        </ul>
+
+        <p><strong>六、信息保护</strong></p>
+        <p>我们采取合理的安全措施保护您的个人信息，防止未经授权的访问、泄露或破坏。尽管我们尽力保护您的信息，但请注意，通过互联网传输或存储的信息不能保证绝对安全。</p>
+
+        <p><strong>七、用户权利</strong></p>
+        <p>您有权访问、更正或删除您的个人信息。您也可以随时撤回同意，停止使用我们的服务。</p>
+        <p>本应用提供了便捷的账号注销功能，您可以通过应用内的“注销账号”按钮进行操作，账号注销请求将在15个工作日内处理完成。</p>
+
+        <p><strong>八、用户同意</strong></p>
+        <p>在使用本应用前，我们会通过明确的方式向您展示本隐私政策，并在收集和处理您的个人信息前获得您的同意。您可以随时撤销同意，且撤销同意不会影响您使用本应用的核心功能。</p>
+
+        <p><strong>九、政策更新</strong></p>
+        <p>我们可能会不时更新本隐私政策。更新后的政策将发布在本页面上，并标明更新日期。请定期查阅本页面以了解最新的隐私政策。</p>
+
+        <p><strong>十、联系我们</strong></p>
+        <p>如果您对本隐私政策有任何疑问或意见，请通过以下方式联系我们：</p>
+        <p><strong>邮箱：</strong><a href="mailto:MeMoHelper@qq.com">MeMoHelper@qq.com</a></p>
+        <p><strong>开发者：</strong>陈昊天</p>
+    </div>
+
+
+<div class="xl-chrome-ext-bar_4DB361DE-01F7-4376-B494-639E489D19ED" id="xl_chrome_ext_4DB361DE-01F7-4376-B494-639E489D19ED" data-v-app="" style="display: block;"><div class=""><!----><div class="_options-wrapper_1h5qu_1" style="display: none;"><a id="xl_chrome_ext_bar_close" href="javascript:;"></a><div class="_xl-chrome-ext-bar__logo_1h5qu_28"></div><!----><!----><div class="_xl-chrome-ext-tips_1h5qu_60"><a id="xl_chrome_ext_bar_screen" href="javascript:;" class="_xl-chrome-ext-bar__option_1h5qu_76"></a><div class="_xl-chrome-ext-title_1h5qu_67">投屏</div></div><div class="_xl-chrome-ext-tips_1h5qu_60"><a id="xl_chrome_ext_bar_copy" class="_xl-chrome-ext-bar__option_1h5qu_76" href="javascript:;"></a><div class="_xl-chrome-ext-title_1h5qu_67">复制链接</div></div></div><!----><!----><!----><!----></div></div></body></html>
